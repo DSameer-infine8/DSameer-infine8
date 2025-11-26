@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Sameer 👋<br>I'm a Software Engineer, Designer, and a passionate learner who loves building real-world projects using AI, web development, and data science. I focus on creating tools that solve meaningful problems — from AI dashboards to ML-powered applications.<br><br>💡 I love exploring technology, self-growth, and building unique product ideas.<br>🛠️ Tech Stack: JavaScript, Node.js, Express, MongoDB, React, Python, ML/AI<br>🚀 Currently working on: AI-powered Resume Builder, ESG Dashboard, and ML models for healthcare<br>🎯 Goal: Become a highly skilled full-stack + AI engineer
+## Hello, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm D.Sameer!
+<br>I'm a Software Engineer, Designer, and a passionate learner who loves building real-world projects using AI, web development, and data science. I focus on creating tools that solve meaningful problems — from AI dashboards to ML-powered applications.<br><br>💡 I love exploring technology, self-growth, and building unique product ideas.<br>🛠️ Tech Stack: JavaScript, Node.js, Express, MongoDB, React, Python, ML/AI<br>🚀 Currently working on: AI-powered Resume Builder, ESG Dashboard, and ML models for healthcare<br>🎯 Goal: Become a highly skilled full-stack + AI engineer
 
 
 ## 🌐 Socials:
